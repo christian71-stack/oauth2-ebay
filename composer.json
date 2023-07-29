@@ -1,6 +1,6 @@
 {
   "name": "christian71-stack/oauth2-ebay",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "version": "1.0.0",
   "description": "eBay OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "keywords": [
